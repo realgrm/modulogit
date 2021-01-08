@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=
+Comment=
+Icon=
+Exec=xdg-open /home/realgrm/Documents/shell-scripts
+Actions=
+Categories=Utility;
